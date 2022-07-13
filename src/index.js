@@ -1,6 +1,5 @@
-const elvenSheildRecipe = {
-    leatherStrips:2,
-    ironIngot:1,
-    refinedMoonstone:4,
-}
+import {someColors,elvenSheildRecipe} from './variables'
+
+console.log(someColors);
+
 console.log(elvenSheildRecipe);
